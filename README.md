@@ -1,4 +1,4 @@
-# Research-Design-Group-7
+# Research Design
 
 **Does a raise in yearly increments improve tenures of Google software engineers?**
 
